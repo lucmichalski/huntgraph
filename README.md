@@ -1,1 +1,1 @@
-# huntgraph
+# huntgraphA project dedicated to threat hunting using the data provenance graph on endpoint
